@@ -2,7 +2,7 @@
 ## Title:        KeywordMonitor
 ## Notes:        Monitor chat for keywords, show matches in a window and play a sound.
 ## Version:      1.0
-## Author:       YourName
+## Author:       saegiru
 ## SavedVariables: KeywordMonitorDB
 
 KeywordMonitor.lua
